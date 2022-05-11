@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarzt21
-- 👀 I’m interested in statistics, machine learning and algo trading
-- 🌱 I’m currently learning C++
+- 👀 I’m a data scientist with a background in statistics and computer science. 
+- 🌱 I’m fluent in Python, R and C++
 - 📫 How to reach me: alarzt@student.ethz.ch
 
 <!---
