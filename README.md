@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarzt21
-- 👀 I’m a data scientist with a background in statistics and computer science. 
+- 👀 I’m a data scientist with a background in statistics and (soon) computer science. 
 - 🌱 I’m fluent in Python, R and C++
 - 📫 How to reach me: ax.arzt@gmail.com
 
